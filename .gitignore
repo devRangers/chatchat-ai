@@ -163,3 +163,4 @@ cython_debug/
 
 # raw dataset
 datasets/raw_datasets
+datasets/labeling_datasets
